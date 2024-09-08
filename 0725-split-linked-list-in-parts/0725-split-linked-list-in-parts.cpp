@@ -10,10 +10,6 @@
  */
 class Solution {
 public:
-    void move(ListNode *&head,int n){
-        for(int i=0;i<n;i++)
-            head=head->next;
-    }
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
         int len=0;
         for(ListNode*curr=head;curr!=NULL;curr=curr->next){
