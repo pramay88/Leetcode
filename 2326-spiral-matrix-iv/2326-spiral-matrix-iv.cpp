@@ -11,26 +11,36 @@
 class Solution {
 public:
     vector<vector<int>> spiralMatrix(int m, int n, ListNode* head) {
-       vector<vector<int>> ans(m, vector<int>(n, -1));
-        if (m == 1 && n == 1) {
-            ans[0][0] = head->val;
-            return ans;
+    vector<vector<int>> matrix(m,vector<int>(n, -1));
+    if (m == 0 || n == 0) return matrix;
+    int top = 0, bottom = m - 1, left = 0, right = n - 1;
+    ListNode* current = head;
+
+    while (top <= bottom && left <= right && current != nullptr) {
+        for (int j = left; j <= right && current != nullptr; ++j) {
+            matrix[top][j] = current->val;
+            current = current->next;
         }
-        for (int c = 0; head != nullptr; ++c) {
-            for (int j = c; (j + 1 + c) < n && head != nullptr; ++j, head = head->next) {
-                ans[c][j] = head->val;
-            }
-            for (int i = c; i + 1 + c < m && head != nullptr; ++i, head = head->next) {
-                ans[i][n - 1 - c] = head->val;
-            }
-            for (int j = n - 1 - c; j > c && head != nullptr; --j, head = head->next) {
-                ans[m - 1 - c][j] = head->val;
-            }
-            for (int i = m - 1 - c; i > c && head != nullptr; --i, head = head->next) {
-                ans[i][c] = head->val;
-            }
+        ++top;
+        for (int i = top; i <= bottom && current != nullptr; ++i) {
+            matrix[i][right] = current->val;
+            current = current->next;
         }
-        return ans;
+        --right;
+        for (int j = right; j >= left && current != nullptr; --j) {
+            matrix[bottom][j] = current->val;
+            current = current->next;
+        }
+        --bottom;
+        for (int i = bottom; i >= top && current != nullptr; --i) {
+            matrix[i][left] = current->val;
+            current = current->next;
+        }
+        ++left;
+    }
+
+    return matrix;
+
     }
 
 };
