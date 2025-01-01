@@ -1,20 +1,24 @@
 class Solution {
 public:
     int maxScore(string s) {
-        int lSum = 0, rSum=0, maxSum=0, n=s.length();
-        for(char c:s){
-            if(c=='1')
-                rSum++;
+        int n = s.length();
+        int leftZeros = 0, rightOnes = 0;
+        int maxScore = 0; 
+        for (char c : s) {
+            if (c == '1') {
+                rightOnes++;
+            }
         }
-        for(int i = 0; i < n - 1; i++){
+        for (int i = 0; i < n - 1; i++) {
             if (s[i] == '0') {
-                lSum++;
+                leftZeros++;
             }
             if (s[i] == '1') {
-                rSum--;
+                rightOnes--;
             }
-            maxSum = max(maxSum, lSum + rSum);
+            maxScore = max(maxScore, leftZeros + rightOnes);
         }
-        return maxSum;
+
+        return maxScore;
     }
 };
