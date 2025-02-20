@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pramay88/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
+| [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
+| [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 ## Math
 |  |
 | ------- |
@@ -87,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pramay88/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
