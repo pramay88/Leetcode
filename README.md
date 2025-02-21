@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/pramay88/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/pramay88/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/pramay88/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
@@ -92,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pramay88/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
