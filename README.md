@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/pramay88/Leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 ## Union Find
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/pramay88/Leetcode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/pramay88/Leetcode/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
