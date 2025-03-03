@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pramay88/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/pramay88/Leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/pramay88/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pramay88/Leetcode/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/pramay88/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
