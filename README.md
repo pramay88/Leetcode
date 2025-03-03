@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -128,11 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pramay88/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/pramay88/Leetcode/tree/master/0283-move-zeroes) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 ## Bit Manipulation
 |  |
