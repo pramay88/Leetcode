@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/pramay88/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/pramay88/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pramay88/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/pramay88/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
