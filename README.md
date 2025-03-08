@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pramay88/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Math
 |  |
 | ------- |
@@ -183,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pramay88/Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pramay88/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
