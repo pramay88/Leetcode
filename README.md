@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1036-rotting-oranges](https://github.com/pramay88/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pramay88/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pramay88/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/pramay88/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pramay88/Leetcode/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/pramay88/Leetcode/tree/master/1610-xor-operation-in-an-array) |
