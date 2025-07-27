@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/pramay88/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pramay88/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/pramay88/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pramay88/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
