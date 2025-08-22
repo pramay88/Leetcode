@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pramay88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/pramay88/Leetcode/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/pramay88/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/pramay88/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramay88/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pramay88/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pramay88/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/pramay88/Leetcode/tree/master/0338-counting-bits) |
+| [0416-partition-equal-subset-sum](https://github.com/pramay88/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pramay88/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Union Find
