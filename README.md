@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramay88/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pramay88/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3678-design-task-manager](https://github.com/pramay88/Leetcode/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramay88/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramay88/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3678-design-task-manager](https://github.com/pramay88/Leetcode/tree/master/3678-design-task-manager) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [3678-design-task-manager](https://github.com/pramay88/Leetcode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramay88/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/pramay88/Leetcode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
