@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/pramay88/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramay88/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/pramay88/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pramay88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramay88/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramay88/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/pramay88/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramay88/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/pramay88/Leetcode/tree/master/0283-move-zeroes) |
+| [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pramay88/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramay88/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramay88/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pramay88/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pramay88/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/pramay88/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
