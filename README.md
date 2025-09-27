@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pramay88/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/pramay88/Leetcode/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/pramay88/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pramay88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pramay88/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/pramay88/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pramay88/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/pramay88/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pramay88/Leetcode/tree/master/0013-roman-to-integer) |
+| [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/pramay88/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
