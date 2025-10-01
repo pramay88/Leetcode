@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/pramay88/Leetcode/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/pramay88/Leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/pramay88/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/pramay88/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramay88/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/pramay88/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1642-water-bottles](https://github.com/pramay88/Leetcode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pramay88/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pramay88/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
