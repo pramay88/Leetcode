@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/pramay88/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0940-fruit-into-baskets](https://github.com/pramay88/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/pramay88/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [2023-design-movie-rental-system](https://github.com/pramay88/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramay88/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/pramay88/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/pramay88/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/pramay88/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/pramay88/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/pramay88/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1036-rotting-oranges](https://github.com/pramay88/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pramay88/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pramay88/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/pramay88/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pramay88/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -204,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/pramay88/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pramay88/Leetcode/tree/master/0200-number-of-islands) |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/pramay88/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
 ## String
@@ -348,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramay88/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/pramay88/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/pramay88/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/pramay88/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pramay88/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pramay88/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
