@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/pramay88/Leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/pramay88/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pramay88/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pramay88/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/pramay88/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pramay88/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/pramay88/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pramay88/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramay88/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pramay88/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/pramay88/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3678-design-task-manager](https://github.com/pramay88/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/pramay88/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/pramay88/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/pramay88/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/pramay88/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pramay88/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Design
 |  |
 | ------- |
