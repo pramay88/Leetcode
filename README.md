@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/pramay88/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pramay88/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1929-concatenation-of-array](https://github.com/pramay88/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2023-design-movie-rental-system](https://github.com/pramay88/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/pramay88/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/pramay88/Leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/pramay88/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/pramay88/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/pramay88/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pramay88/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
