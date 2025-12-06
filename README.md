@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/pramay88/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/pramay88/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pramay88/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pramay88/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1929-concatenation-of-array](https://github.com/pramay88/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2023-design-movie-rental-system](https://github.com/pramay88/Leetcode/tree/master/2023-design-movie-rental-system) |
