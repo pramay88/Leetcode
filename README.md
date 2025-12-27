@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pramay88/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/pramay88/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/pramay88/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pramay88/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/pramay88/Leetcode/tree/master/0338-counting-bits) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pramay88/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pramay88/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pramay88/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/pramay88/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
@@ -519,5 +521,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/pramay88/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
