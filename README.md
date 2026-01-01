@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pramay88/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/pramay88/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/pramay88/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/pramay88/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pramay88/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/pramay88/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pramay88/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/pramay88/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/pramay88/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pramay88/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/pramay88/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/pramay88/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Monotonic Stack
 |  |
