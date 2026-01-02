@@ -2,10 +2,12 @@ class Solution {
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
         int n = triangle.size();
-        for(int i = n-2; i >= 0; i--){
-            for(int j = 0; j < triangle[i].size(); j++)
-                triangle[i][j] += min(triangle[i+1][j], triangle[i+1][j+1]);
-        }
-        return triangle[0][0];
+        vector<int> dp = triangle.back();
+        
+        for(int row = n - 2; row >= 0; row--)
+            for(int col = 0; col <= row; col++)
+                dp[col] = triangle[row][col] + min(dp[col], dp[col + 1]);
+
+        return dp[0];
     }
 };
