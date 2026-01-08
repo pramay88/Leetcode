@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/pramay88/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pramay88/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/pramay88/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/pramay88/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/pramay88/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/pramay88/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/pramay88/Leetcode/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/pramay88/Leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/pramay88/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/pramay88/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/pramay88/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pramay88/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pramay88/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
