@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pramay88/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pramay88/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pramay88/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -404,12 +405,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pramay88/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pramay88/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
