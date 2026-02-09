@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/pramay88/Leetcode/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pramay88/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/pramay88/Leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/pramay88/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/pramay88/Leetcode/tree/master/0733-flood-fill) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pramay88/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pramay88/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/pramay88/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pramay88/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/pramay88/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pramay88/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramay88/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
