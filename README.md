@@ -597,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/pramay88/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/pramay88/Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
