@@ -6,6 +6,6 @@ class Solution {
     }
 public:
     bool isSymmetric(TreeNode* root) {
-        return symmeteric(root->left, root->right);
+        return root == NULL || symmeteric(root->left, root->right);
     }
 };
