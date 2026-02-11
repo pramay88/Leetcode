@@ -1,8 +1,7 @@
 class Solution {
     bool symmeteric(TreeNode * p, TreeNode * q){
         if(!p || !q) return p == q;
-        if(p->val != q->val) return false;
-        return symmeteric(p->left, q->right) && symmeteric(p->right, q->left);
+        return (p->val == q->val) && symmeteric(p->left, q->right) && symmeteric(p->right, q->left);
     }
 public:
     bool isSymmetric(TreeNode* root) {
