@@ -5,16 +5,18 @@ public:
         if(!root) return kNodes;
 
         map<TreeNode*, TreeNode*> parent;
-
         queue<TreeNode*> q;
         q.push(root);
         
         while(!q.empty()){
             TreeNode * node = q.front();
             q.pop();
+
             TreeNode *left = NULL, *right = NULL;
+            
             if(node->left) left = node->left, parent[left] = node;
             if(node->right) right = node->right, parent[right] = node;
+            
             if(left) q.push(left);
             if(right) q.push(right);
         }
