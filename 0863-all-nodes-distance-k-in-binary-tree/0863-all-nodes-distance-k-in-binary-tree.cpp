@@ -4,10 +4,11 @@ public:
         vector<int> kNodes;
         if(!root) return kNodes;
 
-        map<TreeNode*, TreeNode*> parent;
+        unordered_map<TreeNode*, TreeNode*> parent;
         queue<TreeNode*> q;
         q.push(root);
         
+        // Build the parent map
         while(!q.empty()){
             TreeNode * node = q.front();
             q.pop();
@@ -25,6 +26,7 @@ public:
         unordered_map<TreeNode*, int> vis;
         qq.push({target, 0});
         
+        // BFS from target
         while(!qq.empty()){
             auto [node, dist] = qq.front();
             qq.pop();
