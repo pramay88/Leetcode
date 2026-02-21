@@ -1,18 +1,17 @@
 class Solution {
-    TreeNode * build(vector<int> & pre, int start, int end){
-        if(start > end) return NULL;
-        TreeNode * node = new TreeNode(pre[start]);
+    int start = 0;
+    TreeNode * build(vector<int> & pre, int ub){
+        if(start >= pre.size() || pre[start] > ub) return NULL;
 
-        int partition = start + 1;
-        while(partition <= end && pre[partition] < pre[start]) partition++;
+        TreeNode * node = new TreeNode(pre[start++]);
 
-        node->left = build(pre, start + 1, partition - 1);
-        node->right = build(pre, partition, end);
-        
+        node->left = build(pre, node->val);
+        node->right = build(pre, ub);
+
         return node;
     }
 public:
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return build(preorder, 0, preorder.size() - 1);
+        return build(preorder, INT_MAX);
     }
 };
