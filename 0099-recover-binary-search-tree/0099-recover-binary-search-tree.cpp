@@ -1,22 +1,19 @@
 class Solution {
-    void inorder(TreeNode * root, vector<TreeNode*> &in){
+    TreeNode * p = NULL, * q = NULL, *prev = NULL;
+
+    void inorder(TreeNode * root){
         if(!root) return;
-        inorder(root->left, in);
-        in.push_back(root);
-        inorder(root->right, in);
+        inorder(root->left);
+        if(prev && (root->val < prev->val)){
+            if(!p) p = prev;
+            q = root;
+        }
+        prev = root;
+        inorder(root->right);
     }
 public:
     void recoverTree(TreeNode* root) {
-        vector<TreeNode*> in;
-        TreeNode *p = NULL, *q = NULL;
-        inorder(root, in);
-
-        for(int i = 1; i < in.size(); i++){
-            if(in[i]->val < in[i - 1]->val){
-                if(!p) p = in[i-1];
-                q = in[i];
-            }
-        }
+        inorder(root);
         swap(p->val, q->val);
     }
 };
