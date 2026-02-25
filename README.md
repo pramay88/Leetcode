@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/pramay88/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/pramay88/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pramay88/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pramay88/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/pramay88/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/pramay88/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1463-cherry-pickup-ii](https://github.com/pramay88/Leetcode/tree/master/1463-cherry-pickup-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/pramay88/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1018-largest-perimeter-triangle](https://github.com/pramay88/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/pramay88/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pramay88/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramay88/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/pramay88/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/pramay88/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/pramay88/Leetcode/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/pramay88/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pramay88/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/pramay88/Leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/pramay88/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pramay88/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/pramay88/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/pramay88/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pramay88/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pramay88/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/pramay88/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/pramay88/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
