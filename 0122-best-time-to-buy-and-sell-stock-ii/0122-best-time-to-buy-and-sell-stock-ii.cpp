@@ -1,23 +1,22 @@
 class Solution {
-    int f(vector<int> & val, int i, int n, bool buyed, vector<vector<int>> & dp){
-        if(i >= n) return 0;
-        if(dp[i][buyed] != -1) return dp[i][buyed];
-        if(buyed){
-            return dp[i][buyed] = max(
-                val[i] + f(val, i + 1,n,  false, dp),
-                0 + f(val, i + 1, n, true, dp)
-            );
-        }
-        else{
-            return dp[i][buyed] = max(
-                -val[i] + f(val, i + 1, n, true, dp),
-                0 + f(val, i + 1, n, false, dp)
-            );
-        }
-    }
 public:
     int maxProfit(vector<int>& prices) {
-        vector<vector<int>> dp(prices.size(), vector<int>(2, -1));
-        return f(prices, 0, prices.size(), false, dp);
+        int n = prices.size();
+        vector<vector<int>> dp(n + 1, vector<int>(2, 0));
+
+        for(int i = n - 1; i >= 0; i--){
+            // buyed == false → can buy
+            dp[i][0] = max(
+                -prices[i] + dp[i + 1][1],  // buy
+                0 + dp[i + 1][0]            // skip
+            );
+            // buyed == true → can sell
+            dp[i][1] = max(
+                prices[i] + dp[i + 1][0],   // sell
+                0 + dp[i + 1][1]            // hold
+            );
+        }
+
+        return dp[0][0];
     }
 };
