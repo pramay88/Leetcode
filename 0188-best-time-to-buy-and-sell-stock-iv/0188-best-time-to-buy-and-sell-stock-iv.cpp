@@ -1,26 +1,25 @@
 class Solution {
-    vector<vector<vector<int>>> dp;
-    int profit(vector<int> & prices, int i, int n, int buyed, int k){
-        if(i == n || k == 0) return 0;
-
-        if(dp[i][buyed][k] != -1) return dp[i][buyed][k];
-
-        if(buyed)
-            return dp[i][buyed][k] = max(
-                prices[i] + profit(prices, i + 1, n, false, k - 1),
-                0 + profit(prices, i + 1, n, true, k)
-            );
-            
-        else return dp[i][buyed][k] = max(
-                -prices[i] + profit(prices, i + 1, n, true, k),
-                0 + profit(prices, i + 1, n, false, k)
-        );
-    }
 public:
     int maxProfit(int k, vector<int>& prices) {
         int n = prices.size();
-        dp.resize(n, vector<vector<int>>(2, vector<int>(k + 1, -1)));
+        vector<vector<int>> curr(2, vector<int>(k + 1, 0));
+        vector<vector<int>> next(2, vector<int>(k + 1, 0));
+        
+        for(int i = n - 1; i >= 0; i--){
+            for(int t = 1; t <= k; t++){
+                
+                curr[1][t] = max(
+                    prices[i] + next[0][t - 1],
+                    0 + next[1][t]
+                );
 
-        return profit(prices, 0, prices.size(), false, k);
+                curr[0][t] = max(
+                    -prices[i] + next[1][t],
+                    0 + next[0][t]
+                );
+            }
+            next = curr;
+        }
+        return next[0][k];
     }
 };
