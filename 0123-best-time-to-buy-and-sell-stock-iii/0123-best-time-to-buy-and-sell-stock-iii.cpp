@@ -1,28 +1,26 @@
 class Solution {
-    vector<vector<vector<int>>> dp;
-
-    int profit(vector<int> & prices, int i, int n, int buyed, int transactions){
-        if(transactions <= 0) return 0;     // No Transactions remaining
-        if(i == n) return 0;
-
-        if(dp[i][buyed][transactions] != -1) return dp[i][buyed][transactions];
-        
-        if(buyed)   // Can Sell
-            return dp[i][buyed][transactions] = max(
-                prices[i] + profit(prices, i + 1, n, false, transactions - 1), // Sell
-                0 + profit(prices, i + 1, n, true, transactions)               // Hold
-            );
-
-        // Can Buy
-        else return dp[i][buyed][transactions] = max(
-            -prices[i] + profit(prices, i + 1, n, true, transactions),  // Buy
-            0 + profit(prices, i + 1, n, false, transactions)           // Skip
-        );
-    }
 public:
     int maxProfit(vector<int>& prices) {
         int n = prices.size(), transactions = 2;
-        dp.resize(n, vector<vector<int>>(2, vector<int>(transactions + 1, -1)));
-        return profit(prices, 0, prices.size(), false, 2);
+        vector<vector<vector<int>>> dp(n + 1, vector<vector<int>>(2, vector<int>(transactions + 1, 0)));
+    
+        for (int t = 0; t <= transactions; t++)
+            dp[0][1][t] = INT_MIN;
+
+        for(int i = 1; i <= n; i++){
+            for(int t = 1; t <= transactions; t++){
+                
+                dp[i][1][t] = max(
+                    -prices[i - 1] + dp[i - 1][0][t - 1], // Sell
+                    0 + dp[i - 1][1][t]                  // Hold
+                );
+                dp[i][0][t] = max(
+                    prices[i - 1] + dp[i - 1][1][t],  // Buy
+                    0 + dp[i - 1][0][t]                // Skip
+                );                
+            }
+        }
+
+        return dp[n][0][transactions];
     }
 };
