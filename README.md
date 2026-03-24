@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/pramay88/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/pramay88/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2906-construct-product-matrix](https://github.com/pramay88/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramay88/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/pramay88/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/pramay88/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/pramay88/Leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pramay88/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2906-construct-product-matrix](https://github.com/pramay88/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/pramay88/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pramay88/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pramay88/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2249-count-the-hidden-sequences](https://github.com/pramay88/Leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/pramay88/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/pramay88/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2906-construct-product-matrix](https://github.com/pramay88/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pramay88/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Graph
 |  |
