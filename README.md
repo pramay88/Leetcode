@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/pramay88/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/pramay88/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pramay88/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pramay88/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1929-concatenation-of-array](https://github.com/pramay88/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pramay88/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Dynamic Programming
 |  |
@@ -858,4 +860,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pramay88/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
