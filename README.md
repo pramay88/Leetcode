@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/pramay88/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/pramay88/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/pramay88/Leetcode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/pramay88/Leetcode/tree/master/0799-champagne-tower) |
 | [0907-sum-of-subarray-minimums](https://github.com/pramay88/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/pramay88/Leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/pramay88/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/pramay88/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/pramay88/Leetcode/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/pramay88/Leetcode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/pramay88/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/pramay88/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/pramay88/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
