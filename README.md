@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pramay88/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pramay88/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/pramay88/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/pramay88/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pramay88/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pramay88/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pramay88/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pramay88/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/pramay88/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pramay88/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
