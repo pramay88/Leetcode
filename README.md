@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pramay88/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/pramay88/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pramay88/Leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/pramay88/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pramay88/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pramay88/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pramay88/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pramay88/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pramay88/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/pramay88/Leetcode/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/pramay88/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pramay88/Leetcode/tree/master/0229-majority-element-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/pramay88/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/pramay88/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pramay88/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/pramay88/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/pramay88/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/pramay88/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/pramay88/Leetcode/tree/master/0213-house-robber-ii) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/pramay88/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/pramay88/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pramay88/Leetcode/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/pramay88/Leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/pramay88/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pramay88/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0257-binary-tree-paths](https://github.com/pramay88/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -853,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pramay88/Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pramay88/Leetcode/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/pramay88/Leetcode/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
@@ -893,4 +898,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pramay88/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
