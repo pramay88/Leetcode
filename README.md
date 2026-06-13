@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/pramay88/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/pramay88/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pramay88/Leetcode/tree/master/3827-implement-router) |
+| [3838-weighted-word-mapping](https://github.com/pramay88/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/pramay88/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/pramay88/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3797-design-spreadsheet](https://github.com/pramay88/Leetcode/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/pramay88/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pramay88/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/pramay88/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/pramay88/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3336-water-bottles-ii](https://github.com/pramay88/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3838-weighted-word-mapping](https://github.com/pramay88/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
