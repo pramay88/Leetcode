@@ -1,27 +1,26 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        ListNode* node = head;
+        ListNode *slow = head, *fast = head;
         int len = 0;
-
-        while(node){
+        
+        while(fast && fast->next){
+            slow = slow->next;
             len++;
-            node = node->next;
+            fast = fast->next->next;
         }
 
-        vector<int> sums(len / 2, 0);
-        node = head;
-
+        vector<int> sums(len, 0);
         int i = 0;
-        while(i < len / 2){
-            sums[i++] = node->val;
-            node = node->next;
-        }
-
-        i = len / 2 - 1;
-        while (node){
-            sums[i--] += node->val;
-            node = node->next;
+        fast = slow;
+        slow = head;
+        
+        while(fast){
+            sums[i] += slow->val;
+            sums[len - i - 1] += fast->val;
+            i++;
+            slow = slow->next;
+            fast = fast->next;
         }
 
         int maxx = 0;
