@@ -1,52 +1,53 @@
 class Solution {
-    bool ip4(string ip) {
-        if(count(ip.begin(), ip.end(), '.') != 3) return false;
+    bool isIPv4(const string& ip){
+        if (count(ip.begin(), ip.end(), '.') != 3) return false;
+        int start = 0;
+        int segments = 0;
         
-        stringstream ss(ip);
-        string token;
-        int segmentCount = 0;
-        
-        while(getline(ss, token, '.')) {
-            segmentCount++;
-            
-            if(token.empty() || token.size() > 3) return false;
-            
-            for(char c : token) {
-                if(!isdigit(c)) return false;
+        for(int i = 0; i <= ip.size(); ++i) {
+            if (i == ip.size() || ip[i] == '.') {
+                int len = i - start;
+                if(len < 1 || len > 3) return false;
+                if(len > 1 && ip[start] == '0') return false;
+                
+                int num = 0;
+                for(int j = start; j < i; ++j){
+                    if(!isdigit(ip[j])) return false;
+                    num = num * 10 + (ip[j] - '0');
+                }
+                if(num > 255) return false;
+                
+                start = i + 1;
+                segments++;
             }
-            
-            if(token.size() > 1 && token[0] == '0') return false;
-            
-            int num = stoi(token);
-            if(num < 0 || num > 255) return false;
         }
-        
-        return segmentCount == 4;
+        return segments == 4;
     }
 
-    bool ip6(string ip) {
+    bool isIPv6(const string& ip) {
         if(count(ip.begin(), ip.end(), ':') != 7) return false;
+        int start = 0;
+        int segments = 0;
         
-        stringstream ss(ip);
-        string token;
-        int segmentCount = 0;
-        
-        while(getline(ss, token, ':')){
-            segmentCount++;
-            
-            if(token.empty() || token.size() > 4) return false;
-            
-            for(char c : token){
-                if(!isxdigit(c)) return false;
+        for(int i = 0; i <= ip.size(); ++i){
+            if(i == ip.size() || ip[i] == ':'){
+                int len = i - start;
+                if(len < 1 || len > 4) return false;
+                
+                for(int j = start; j < i; ++j){
+                    if (!isxdigit(ip[j])) return false;
+                }
+                
+                start = i + 1;
+                segments++;
             }
         }
-        
-        return segmentCount == 8;
+        return segments == 8;
     }
 public:
     string validIPAddress(string queryIP) {
-        if(ip4(queryIP)) return "IPv4";
-        else if(ip6(queryIP)) return "IPv6";
+        if(isIPv4(queryIP)) return "IPv4";
+        else if(isIPv6(queryIP)) return "IPv6";
         return "Neither";
     }
 };
