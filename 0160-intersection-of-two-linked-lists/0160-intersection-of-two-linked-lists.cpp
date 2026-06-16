@@ -9,19 +9,13 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_set<ListNode*> hash;
-        
-        ListNode *a = headA, *b = headB;
-        while(a){
-            hash.insert(a);
-            a = a->next;
-        }
-        
-        while(b){
-            if(hash.count(b)) return b;
-            b = b->next;
+        ListNode * a = headA, * b = headB;
+
+        while(a != b){
+            a = (a == NULL)? headB: a->next;
+            b = (b == NULL)? headA: b->next;
         }
 
-        return NULL;
+        return a;
     }
 };
