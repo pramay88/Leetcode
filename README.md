@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/pramay88/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pramay88/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pramay88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/pramay88/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/pramay88/Leetcode/tree/master/2023-design-movie-rental-system) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/pramay88/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/pramay88/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/pramay88/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pramay88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pramay88/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/pramay88/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/pramay88/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -839,6 +841,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/pramay88/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pramay88/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pramay88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pramay88/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pramay88/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/pramay88/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
