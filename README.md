@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/pramay88/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pramay88/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/pramay88/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pramay88/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-design-movie-rental-system](https://github.com/pramay88/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pramay88/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/pramay88/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/pramay88/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pramay88/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pramay88/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/pramay88/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/pramay88/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
