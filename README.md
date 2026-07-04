@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/pramay88/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/pramay88/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pramay88/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Matrix
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/pramay88/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/pramay88/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pramay88/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pramay88/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Dynamic Programming
 |  |
@@ -980,6 +982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/pramay88/Leetcode/tree/master/0547-number-of-provinces) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/pramay88/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pramay88/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Trie
 |  |
 | ------- |
@@ -993,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pramay88/Leetcode/tree/master/0547-number-of-provinces) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pramay88/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Segment Tree
 |  |
 | ------- |
