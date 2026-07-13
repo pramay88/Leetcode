@@ -843,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/pramay88/Leetcode/tree/master/1291-sequential-digits) |
 | [2998-count-symmetric-integers](https://github.com/pramay88/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3713-longest-balanced-substring-i](https://github.com/pramay88/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pramay88/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
