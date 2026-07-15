@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pramay88/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/pramay88/Leetcode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pramay88/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pramay88/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pramay88/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
@@ -903,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/pramay88/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramay88/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pramay88/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Ordered Set
 |  |
 | ------- |
