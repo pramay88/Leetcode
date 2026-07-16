@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3797-design-spreadsheet](https://github.com/pramay88/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/pramay88/Leetcode/tree/master/3827-implement-router) |
 | [3838-weighted-word-mapping](https://github.com/pramay88/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pramay88/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/pramay88/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pramay88/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pramay88/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pramay88/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/pramay88/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pramay88/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/pramay88/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pramay88/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -721,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/pramay88/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/pramay88/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/pramay88/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pramay88/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -743,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/pramay88/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/pramay88/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/pramay88/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pramay88/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -905,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/pramay88/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pramay88/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pramay88/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/pramay88/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
